@@ -1,7 +1,8 @@
 public enum ElementsMendellev {
     H(55,"Водород"),
     He(2,"Гелий"),
-    Li(3,"Литий");
+    Li(3,"Литий"),
+    Li(4,"Берилий");
     private final int num;
     private final String name;
 
