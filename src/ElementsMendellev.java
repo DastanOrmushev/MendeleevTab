@@ -1,5 +1,5 @@
 public enum ElementsMendellev {
-    H(99,"Водород"),
+    H(1,"Водород"),
     He(2,"Гелий"),
     Li(3,"Литий");
     private final int num;
