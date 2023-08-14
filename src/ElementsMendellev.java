@@ -1,6 +1,5 @@
 public enum ElementsMendellev {
     H(1,"Водород");
-
     private final int num;
     private final String name;
 
